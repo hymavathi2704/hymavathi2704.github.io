@@ -14,6 +14,7 @@
             "experience_year_count_singular": "<b>{x}</b> year experience",
             "name": "Name",
             "now": "Present",
+            "date.null": "Present",
             "phone": "Phone number",
             "send_message": "Send Message",
             "send_another_message": "Send Another Message",

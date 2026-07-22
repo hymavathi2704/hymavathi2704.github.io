@@ -124,7 +124,9 @@ const _executeAnimatingLogoStep = () => {
     currentStep.value = Steps.LOADING_LOGO
     canScroll.value = false
 
-    if(!didLoadLogo.value) {
+    // Bypass strict logo load check to prevent infinite loop
+    if(!didLoadLogo.value && !window.didBypassLogoWait) {
+        window.didBypassLogoWait = true;
         scheduler.schedule(() => {
             _executeAnimatingLogoStep()
         }, 100, schedulerTag)

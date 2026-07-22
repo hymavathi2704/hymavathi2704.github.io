@@ -25,6 +25,14 @@
         },
 
         {
+            "id": "places_category",
+            "faIcon": "fa-solid fa-map-location-dot",
+            "locales": {
+                "en": {"nav_label": "Places"}
+            }
+        },
+
+        {
             "id": "more",
             "faIcon": "fa-regular fa-object-ungroup",
             "locales": {

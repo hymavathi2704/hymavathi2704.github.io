@@ -72,7 +72,7 @@ const localizeFromStrings = (key) => {
  */
 const localizeDate = (dateOrString) => {
     if(!dateOrString)
-        return 'date.null'
+        return `<strong>${localizeFromStrings('now')}</strong>`
 
     if(typeof dateOrString === 'string')
         return `<strong>${localizeFromStrings(dateOrString)}</strong>`

@@ -55,14 +55,14 @@ const visible = computed(() => {
 
 section.resume-section {
     display: flex;
-    min-height: 100vh;
+    min-height: fit-content;
 
     @include media-breakpoint-down($navigation-sidebar-breakpoint) {
-        min-height: calc(100vh - $nav-tab-controller-height - 220px);
+        min-height: fit-content;
     }
 
     @media (min-height: 900px) {
-        min-height: 900px;
+        min-height: fit-content;
     }
 
     &-svh {
