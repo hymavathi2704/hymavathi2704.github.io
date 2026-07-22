@@ -74,121 +74,50 @@
                 "chart": null
             },
             "items": [
-    {
-        "id": 1,
-        "img": null,
-        "fallbackFaIcon": "fa-brands fa-python",
-        "fallbackFaIconColor": null,
-        "locales": {
-            "en": {
-                "title": "Python",
-                "description": "Basic knowledge of Python syntax, data types, and control structures."
-            }
-        }
-    },
-    {
-        "id": 2,
-        "fallbackFaIcon": "fa-solid fa-code",
-        "fallbackFaIconColor": null,
-        "locales": {
-            "en": {
-                "title": "C",
-                "description": "Understanding of C fundamentals like variables, loops, and functions."
-            }
-        }
-    },
-    {
-        "id": 3,
-        "img": null,
-        "fallbackFaIcon": "fa-solid fa-mug-hot",
-        "fallbackFaIconColor": null,
-        "locales": {
-            "en": {
-                "title": "Java",
-                "description": "Familiar with Java basics including classes, objects, and OOP concepts."
-            }
-        }
-    }
-]
-
-        },
-
-        {
-            "id": 2,
-            "component": "ArticleSkills",
-            "locales": {
-                "en": {"title": "Frontend Stack"}
-            },
-            "settings": {
-                "order_items_by": "percentage",
-                "order_items_sort": "desc",
-                "max_items_per_line": 2,
-                "transparent_item_icon_background": true,
-                "small_icons": false,
-                "chart": null
-            },
-            "items": [
                 {
                     "id": 1,
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-html5",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "HTML 5",
-                            "description": "Experienced with HTML5 elements and features."
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-css3-alt",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "CSS 3",
-                            "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
-                        }
-                    }
-                },
-
-                {
-                    "id": 3,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-js-square",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Javascript",
-                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                            "title": "JavaScript / TS",
+                            "description": "Core language for dynamic web development across frontend and backend."
                         }
                     }
                 },
-
+                {
+                    "id": 2,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-python",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "description": "Used extensively for machine learning, data analysis, and scripting."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "C / Java",
+                            "description": "Strong foundation in data structures, algorithms, and OOP concepts."
+                        }
+                    }
+                },
                 {
                     "id": 4,
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIcon": "fa-brands fa-ethereum",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Vue 3",
-                            "description": "Capable of building and deploying Vue applications."
-                        }
-                    }
-                },
-
-                {
-                    "id": 5,
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-react",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "React",
-                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
+                            "title": "Solidity",
+                            "description": "Experience writing and deploying smart contracts for Web3 DApps."
                         }
                     }
                 }
@@ -199,7 +128,7 @@
             "id": 3,
             "component": "ArticleSkills",
             "locales": {
-                "en": {"title": "Backend Stack"}
+                "en": {"title": "Frontend & Mobile"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -213,25 +142,156 @@
                 {
                     "id": 1,
                     "img": null,
+                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "React.js",
+                            "description": "Building interactive, scalable UIs using modern hooks and component architecture."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3",
+                            "description": "Developing and maintaining reactive single-page applications."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paintbrush",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind CSS",
+                            "description": "Rapid UI prototyping and styling using utility-first CSS."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-flutter",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Flutter",
+                            "description": "Building cross-platform mobile applications using Flutter and Dart."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend & Databases"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node-js",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Node.js & Express",
+                            "description": "Building robust RESTful APIs and server-side applications."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
                     "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "MySQL",
-                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                            "title": "MySQL & MongoDB",
+                            "description": "Managing relational and NoSQL databases, schema design, and queries."
                         }
                     }
                 },
-
                 {
-                    "id": 2,
+                    "id": 3,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-php",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
                             "title": "PHP",
-                            "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+                            "description": "Building dynamic server-side applications and integrating databases."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-server",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "PostgreSQL",
+                            "description": "Designing and managing advanced relational databases and complex queries."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 5,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Cloud & Deployment"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-github",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "GitHub",
+                            "description": "Version control, team collaboration, and CI/CD workflows."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-aws",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "AWS",
+                            "description": "Deploying and managing scalable web applications using Amazon Web Services."
                         }
                     }
                 }

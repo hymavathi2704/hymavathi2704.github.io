@@ -113,6 +113,22 @@
         },
 
         {
+            "id": "places",
+            "categoryId": "places_category",
+            "jsonPath": "/sections/places.json",
+            "faIcon": "fa-solid fa-map-location-dot",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Places* I Explored",
+                    "title_short": null,
+                    "description": "Some of the wonderful places I have visited and explored:",
+                    "nav_label": "Places"
+                }
+            }
+        },
+
+        {
             "id": "contact",
             "categoryId": "more",
             "jsonPath": "/sections/contact.json",

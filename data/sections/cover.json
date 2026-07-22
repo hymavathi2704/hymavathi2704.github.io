@@ -14,7 +14,7 @@
                     "id": 1,
                     "locales": {
                         "en": {
-                            "description": "I am a final-year B.Tech student majoring in Computer Science and Engineering, deeply passionate about technology and its applications. With a strong interest in both Artificial Intelligence/Machine Learning and Web Development, I strive to blend creativity with logic to build meaningful and user-friendly solutions."
+                            "description": "Some people see a problem. I usually see something waiting to be built.<br><br>Hey, I’m <b>Hyma</b> — a <b>Junior Software Development Engineer</b> and <b>Computer Science graduate</b> who somehow turned “let me see how this works” into a career in tech."
                         }
                     }
                 },
@@ -23,7 +23,7 @@
                     "id": 2,
                     "locales": {
                         "en": {
-                            "description": "Throughout my academic journey, I have worked on various projects that allowed me to explore the power of AI and the versatility of modern web technologies."
+                            "description": "My curiosity has taken me through <b>AI & Machine Learning</b>, <b>web development</b>, <b>software engineering</b>, and <b>data</b>. I love that moment when an idea that existed only in your head starts taking shape on a screen — one line of code, one bug, and occasionally way too many browser tabs at a time."
                         }
                     }
                 },
@@ -32,16 +32,16 @@
                     "id": 3,
                     "locales": {
                         "en": {
-                            "description": "My learning approach is hands-on and curiosity-driven. I enjoy solving real-world problems, experimenting with new tools, and continuously upgrading my skills to stay aligned with industry trends. I believe in building clean, scalable, and impactful solutions that serve a purpose beyond the code."
+                            "description": "I’m not someone who likes learning technology just for the sake of adding another skill to a list. I like asking:<br><ul><li>Can this solve something?</li><li>Can I make it simpler?</li><li>Can I make it better?</li></ul>That mindset shapes how I build. Whether I’m developing a product, experimenting with AI, working with data, or exploring a completely unfamiliar tool, I enjoy turning messy problems into simple, thoughtful, and useful solutions."
                         }
                     }
                 },
 
                 {
-                    "id": 3,
+                    "id": 4,
                     "locales": {
                         "en": {
-                            "description": " As I step into the next phase of my journey, I’m excited to take on challenges that push my boundaries and make a real impact through technology."
+                            "description": "And yes, things break. Code refuses to cooperate. Google tabs multiply mysteriously. But that’s part of what I love about tech — there is always another problem to solve, another idea to explore, and something new to learn.<br><br><b>Currently:</b> building, debugging, learning…<br><b>Next:</b> probably something I haven’t discovered yet. 🚀"
                         }
                     }
                 }

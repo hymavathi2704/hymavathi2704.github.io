@@ -178,6 +178,22 @@
               "tags": ["React.js", "Tailwind CSS", "MySQL", "Full Stack Development", "Business Platform"]
             }
           }
+        },
+        {
+          "id": 10,
+          "type": "experience",
+          "dateStart": { "year": 2026, "month": 0 },
+          "img": "images/places/Startworks.jpg",
+          "locales": {
+            "en": {
+              "title": "Junior Software Development Engineer",
+              "description": "Working full-time on-site, developing and maintaining software applications as a Junior SDE. Contributing to the full software development lifecycle for key projects including Almam AI, Equibudx, Samars, and Battalu.in, while collaborating with the team to deliver high-quality solutions.",
+              "province": "Vizag",
+              "country": "India",
+              "institution": "startworks technology pvt ltd",
+              "tags": ["Software Development", "Full Stack", "Engineering", "On-site"]
+            }
+          }
         }
       ]
     }

@@ -1,18 +1,18 @@
 {
     "name": "Hymavathi Peddimudi",
-    "profilePictureUrl": "images/pictures/avater.png",
+    "profilePictureUrl": "images/pictures/hyma-portrait-royal.png",
 
     "locales": {
         "en": {
             "credits": "Designed by <strong><a href='https://github.com/hymavathi2704'>Hymavathi</a></strong>",
-            "role": "Full Stack Intern & Final Year Student"
+            "role": "Junior SDE"
         }
     },
 
     "contactOptions": [
         {
             "id": "address",
-            "value": "Housing Board Colony, Ramachandrapuram , 533255",
+            "value": "Vishakapatnam",
             "valueShort": "INDIA – IN",
             "faIcon": "fa-regular fa-map",
             "href": null
@@ -47,7 +47,7 @@
             "value": "@HymaVathi.official",
             "valueShort": "@HymaVathi.official",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://www.linkedin.com/in/hyma-vathi-peddimudi-1b77a02b3/"
+            "href": "https://www.linkedin.com/in/hyma-vathi"
         },
 
         {
